@@ -1,5 +1,7 @@
 # Germán Crisci
 
+![20200325_170444](https://user-images.githubusercontent.com/80921200/111788967-7049e280-889f-11eb-897d-bf58ca1a30c9.jpg)
+
 Nro de Legajo: 11504
 
 Edad: 22

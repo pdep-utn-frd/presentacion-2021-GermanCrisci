@@ -1,6 +1,6 @@
 # Germán Crisci
 
-![20200325_170444](https://user-images.githubusercontent.com/80921200/111788967-7049e280-889f-11eb-897d-bf58ca1a30c9.jpg)
+![foto-cara](https://user-images.githubusercontent.com/80921200/111789788-4ba23a80-88a0-11eb-9f37-3877afd1a8b7.png)
 
 Nro de Legajo: 11504
 
@@ -15,4 +15,4 @@ Vivo en Ing. Maschwitz
 Hobbies
  - Libros (fantasía, ciencia-ficción)
  - Videojuegos
-
+ - Programación

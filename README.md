@@ -1,6 +1,6 @@
 # Germán Crisci
 
-![foto-cara](https://user-images.githubusercontent.com/80921200/111789788-4ba23a80-88a0-11eb-9f37-3877afd1a8b7.png)
+![Foto Mía](https://user-images.githubusercontent.com/80921200/111789788-4ba23a80-88a0-11eb-9f37-3877afd1a8b7.png)
 
 ## Datos
 
@@ -26,3 +26,11 @@ Vivo en Ing. Maschwitz
  - Programación
 	 - Aprendiendo React y Node.js en este momento.
 	 - En el trabajo uso PHP en el back-end y Javascript en el front-end.
+
+## Mascotas
+
+Tengo dos perros, Chester un Collie que tiene 3 años, y Carola que ya tiene 11 años.
+
+![Foto Chester](https://user-images.githubusercontent.com/80921200/111881749-c185cf00-8990-11eb-93e3-dd952519b3b3.jpg)
+
+![Foto Carola](https://user-images.githubusercontent.com/80921200/111881752-c3e82900-8990-11eb-9726-27a61d574ae5.jpg)

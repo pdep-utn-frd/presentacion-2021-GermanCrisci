@@ -14,18 +14,23 @@ Empecé con un curso en php básico online de la utn frba y el resto aprendí  d
 
 Me pase de 2do año de Ing. Mecánica a Sistemas el año pasado.
 
-Vivo en Ing. Maschwitz
+Vivo en Ing. Maschwitz desde hace mas de 15 años en un country cerca de la bajada de la ruta 26.
 
 ## Hobbies
 
  - Libros (fantasía, ciencia-ficción)
 	 - Me gusta leer en ingles asi no se me va la practica del secundario.
+	 - Una de mis series favoritas de ciencia ficción es una en ingles llamada We Are Bob.       
  - Videojuegos
 	 - Gran fan de juegos como Factorio y Satisfactory pero juego de todo un poco.
 	 - Todo lo que tenga que ver con resolver problemas me gusta.
  - Programación
 	 - Aprendiendo React y Node.js en este momento.
 	 - En el trabajo uso PHP en el back-end y Javascript en el front-end.
+
+## Comida favorita
+
+- Mi comida favorita son los ravioles con salsa bolognesa.
 
 ## Mascotas
 
